@@ -97,3 +97,9 @@ Antes de começar, certifique-se de ter instalado:
 * **Custos da API:** Esteja ciente dos limites de uso gratuito e dos possíveis custos associados ao uso da API do Google Gemini.
 * **Não Faz Push:** Lembre-se que `git push` é uma etapa manual separada.
 * **Sem Garantias:** Esta é uma ferramenta auxiliar. Use por sua conta e risco. Faça backup do seu trabalho.
+
+## Licença
+
+Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+Copyright (c) 2025 Olavo Ribeiro Gomes Dario.
