@@ -6,6 +6,7 @@
 
 ---
 
+
 ##Funcionalidades
 
 *Gera mensagens de commit automaticamente usando a API do Google Gemini. 
