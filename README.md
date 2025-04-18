@@ -4,7 +4,7 @@
 
 **Última atualização:** 12 de abril de 2025
 
---
+---
 
 ##Funcionalidades
 
